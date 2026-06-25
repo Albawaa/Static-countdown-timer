@@ -1,0 +1,24 @@
+    #timerTitle {
+        background-color: #367f93;    
+        color: rgb(45, 43, 43);
+        font-size: 24px;
+        font-family:"Permanent Marker";
+        font-weight: bold;
+        qproperty-alignment: 'AlignVCenter | AlignLeft';
+        padding-left: 10px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    #timerCountdown {
+        background-color: #ca8c5c;    
+        color: rgb(45, 43, 43);
+        font-size: 24px;
+        font-family:"Permanent Marker";
+        font-weight: bold;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
