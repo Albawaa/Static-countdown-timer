@@ -17,7 +17,7 @@ The bot switches to a target directory and, in a separate shell, runs:
 
 The arguments to pass are, in order:
   - The timer title. If you want to include spaces in the title encase it between quotation marks.
-  - The timer total countdown time in secconds. The timer will convert it to minutes and seconds automatically.
+  - The timer total countdown time in seconds. The timer will convert it to minutes and seconds automatically.
 
 An example would be:
 ```
