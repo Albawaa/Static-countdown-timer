@@ -24,7 +24,7 @@ An example would be:
 .static_countdown_timer_venv\Scripts\python.exe .\src\StaticCountdownTimer.py "Pretty timer" 120
 ```
 
-(The permanent marker font set in the default config file can be found on [Google Fonts](https://fonts.google.com/selection?preview.script=Latn).)
+(The permanent marker font set in the default config file can be found on [Google Fonts](https://fonts.google.com/share?selection.family=Permanent+Marker).)
 
 Which would give:
 
