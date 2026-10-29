@@ -24,6 +24,8 @@ An example would be:
 .static_countdown_timer_venv\Scripts\python.exe .\src\StaticCountdownTimer.py "Pretty timer" 120
 ```
 
+(The permanent marker font set in the default config file can be found on [Google Fonts](https://fonts.google.com/selection?preview.script=Latn).)
+
 Which would give:
 
 <img width="388" height="137" alt="image" src="https://github.com/user-attachments/assets/d53d9612-b719-405b-8308-23066a8c03a3" />
